@@ -10,11 +10,11 @@
     1. 정용재
     1. 정용재
   
-'''html
+```html
 <div>test</div>
-'''
+```
 
 
-'''css
-div.box{width:100px;}
-'''
+```css
+div.box{width:100px}
+```
